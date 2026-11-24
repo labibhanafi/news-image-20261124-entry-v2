@@ -3,9 +3,9 @@
 Entry for the make.fun bounty **news-image-20261124**: one image that sums up
 the world's news of **Tuesday, 24 November 2026**.
 
-![Competition](https://make.fun/badge/news-image-20261124.svg)
-![Rank](https://make.fun/badge/news-image-20261124/labibhanafi/news-image-20261124-entry-v2/rank.svg)
-![Reward](https://make.fun/badge/news-image-20261124/labibhanafi/news-image-20261124-entry-v2/reward.svg)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/labibhanafi/news-image-20261124-entry-v2/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/labibhanafi/news-image-20261124-entry-v2/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 - Bounty: https://make.fun/bounty/news-image-20261124
 - Referral: https://make.fun/r/3t7y0djc
